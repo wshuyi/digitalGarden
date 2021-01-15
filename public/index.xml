@@ -4,6 +4,27 @@
     <title>Your title</title>
     <link>https://shuyi-digital-garden.netlify.app/</link>
     <description>Recent content on Your title</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://shuyi-digital-garden.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shuyi-digital-garden.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>new try</title>
+      <link>https://shuyi-digital-garden.netlify.app/post/2021-01-15-new-try/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuyi-digital-garden.netlify.app/post/2021-01-15-new-try/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>测试</title>
+      <link>https://shuyi-digital-garden.netlify.app/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuyi-digital-garden.netlify.app/posts/</guid>
+      <description>  test without RStudio
+To publish this one
+ </description>
+    </item>
+    
   </channel>
 </rss>

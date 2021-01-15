@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shuyi-digital-garden.netlify.app/post/2021-01-15-new-try/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shuyi-digital-garden.netlify.app/post/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shuyi-digital-garden.netlify.app/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shuyi-digital-garden.netlify.app/categories/</loc>
   </url>
   
@@ -11,7 +26,7 @@
   </url>
   
   <url>
-    <loc>https://shuyi-digital-garden.netlify.app/</loc>
+    <loc>https://shuyi-digital-garden.netlify.app/posts/</loc>
   </url>
   
 </urlset>
